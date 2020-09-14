@@ -1,0 +1,31 @@
+.nav-main {
+    background-color: #e87966;
+}
+
+a {
+    color: white;
+    font-weight: 600;
+}
+
+.form-div {
+    width: 30%;
+}
+
+.card-header, .add-new, .btn-checkout {
+    background-color: #e87966;
+}
+
+.form-control:focus {
+    border-color: none;
+}
+
+.alter-div {
+    height: 30rem;
+    text-align: center;
+    padding-top: 12rem;
+}
+
+.btn-checkout {
+    font-weight: 600;
+    font-size: 0.8rem;
+}
